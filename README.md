@@ -6,7 +6,7 @@ Check Top Cryptocurrency Prices/Market Cap via Command-Line
 Draft/Plan <WIP>
 
 ---
-
+```
 # COMMAND-LINE CRYPTO-CURRENCY PRICE CHECKER 
 # <WIP: started 7/24/17>
 # based on: https://coinmarketcap.com/api/
@@ -97,3 +97,4 @@ Draft/Plan <WIP>
 
 
 # Check against: List of Top 50 non-minable and non-premined coins: https://coinmarketcap.com/currencies/views/filter-non-mineable-and-premined/
+```
